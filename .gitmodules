@@ -1,0 +1,6 @@
+[submodule "primal-training-gym-frontend"]
+	path = primal-training-gym-frontend
+	url = https://github.com/AurelienEbeng/primal-training-gym-frontend.git
+[submodule "primal-training-gym-backend"]
+	path = primal-training-gym-backend
+	url = https://github.com/AurelienEbeng/primal-training-gym-backend.git
