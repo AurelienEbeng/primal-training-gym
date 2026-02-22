@@ -1,5 +1,5 @@
 # Functional Requirements
-- Develop a pixel-perfect frontend implementation based on the provided Figma design.
+- Develop a pixel-perfect frontend implementation based on the provided [Figma design](https://www.figma.com/community/file/1498113978492175844/performance-driven-gym).
 - Integrate the frontend with a backend system.
 - Store user reservations in the database.
 - Allow users to create, update, and delete their reservations.
