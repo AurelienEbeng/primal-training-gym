@@ -24,7 +24,7 @@
 - Tailwind CSS
 
 ## Backend
--Django Rest Framework
+- Laravel
 
 ## Database
 - SQLite
