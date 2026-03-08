@@ -4,3 +4,6 @@
 [submodule "primal-training-gym-backend"]
 	path = primal-training-gym-backend
 	url = https://github.com/AurelienEbeng/primal-training-gym-backend.git
+[submodule "primal-training-gym-backend-laravel"]
+	path = primal-training-gym-backend-laravel
+	url = https://github.com/AurelienEbeng/primal-training-gym-backend-laravel
