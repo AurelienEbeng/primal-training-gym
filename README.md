@@ -13,7 +13,7 @@
 - Redirect users to the reservation list page after successfully creating a reservation.
 - Validate that users register for classes according to the correct time rules for weekdays, weekends, and holidays.
 - Return descriptive error messages to the frontend when a reservation is invalid, including the specific reason.
-- Deploy the frontend on Netlify and the backend on PythonAnywhere.
+- Deploy the frontend on Netlify and the backend on Render.
   <br>
 
 # Technologies Used
@@ -28,6 +28,10 @@
 
 ## Database
 - SQLite
+
+## Production
+- Docker
+- Render
 <br>
 
 # [Live Website Link](https://primal-training-gym.netlify.app/)
